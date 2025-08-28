@@ -1,2 +1,7 @@
 # Investigation-of-gradient-descent-optimization-methods
-Gradient descent methods underlie the training of artificial neural networks, allowing minimizing the loss function and finding optimal model parameters.
+
+Работа, проведённая мной на летней практике 1 курса обучения.
+
+
+Методы градиентного спуска лежат в основе обучения искусственных нейронных сетей, позволяя минимизировать функцию потерь и находить оптимальные параметры модели.
+
